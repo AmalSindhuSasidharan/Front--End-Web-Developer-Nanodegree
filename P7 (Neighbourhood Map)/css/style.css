@@ -1,0 +1,37 @@
+.header{
+  background-image: url("bg.jpg");
+  width: 100%;
+  text-align: center;
+  color: white;
+  border-radius: 5px;
+  font-size: 30px;
+}
+
+.head{
+	padding: 5px;
+}
+
+.list{
+  	font-size: 20px;
+  	width: 100%;
+ 	cursor: pointer;
+	border-bottom-style: solid;
+	border-bottom-color: indianred;
+	border-bottom-width: 1px;
+}
+
+#map{
+  height: 75%;
+  position: relative;
+  padding: 10px;
+  margin-top: 0px;
+}
+
+.col-md-10{
+  border-radius: 10px;
+}
+
+body{
+  font-family: 'Eagle Lake', cursive;
+	background-color: #111111;
+}
