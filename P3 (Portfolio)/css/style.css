@@ -1,0 +1,33 @@
+.image-logo {
+    height: 150px;
+    width: 150px;
+}
+
+.image-end {
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+    width: 300px;
+}
+
+body {
+    font-family: "Lato", sans-serif;
+    color: #7d97ad;
+    font-weight: 300;
+}
+
+.text-muted {
+    color: #888;
+}
+
+.text-thin {
+    font-weight: 100;
+}
+
+.title-super {
+    font-size: 40px;
+}
+
+.lefty {
+    float:left;
+}
